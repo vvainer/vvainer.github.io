@@ -1,0 +1,4 @@
+baseURL = "http://www.dabra.ai"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "hugo-base-theme"
