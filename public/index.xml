@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dabra - shine in managing people</title>
+    <link>https://dabra.ai/</link>
+    <description>Recent content on Dabra - shine in managing people</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Jan 2018 16:36:24 +0200</lastBuildDate>
+    
+	<atom:link href="https://dabra.ai/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Developer, do you have a great manager?</title>
+      <link>https://dabra.ai/posts/developer/</link>
+      <pubDate>Tue, 23 Jan 2018 16:36:24 +0200</pubDate>
+      
+      <guid>https://dabra.ai/posts/developer/</guid>
+      <description>We help you, developer, to personalize your manager attitude towards yourself. Dabra helps you to have meaningful and impactful 1x1 meetings with your manager. Why is this important? 1x1 meeting with your manager is the main channel where you can convey how valuable you are to the team, what are your personal preferences and what you&amp;rsquo;d like to achieve. Your manager understanding of your strengthes, personal preferences and your contribution is the mast important step towards your feeling of satisfaction at work, higher performance evaluation and sucessful career.</description>
+    </item>
+    
+    <item>
+      <title>About Dabra</title>
+      <link>https://dabra.ai/about/</link>
+      <pubDate>Wed, 24 Jan 2018 11:06:41 +0200</pubDate>
+      
+      <guid>https://dabra.ai/about/</guid>
+      <description>Dabra team set on path to improve personal communication at the workplace and bring to meaningful conversations and relationships. We believe this is the road to everyone&amp;rsquo;s real satisfaction and productivity at work. Real communication will establish and leverage personal and professional growth and success will follow. We are developing chatbot on Slack, which helps development managers and developers to have impactful one on one meetings. We use personality and behavioral models to help establish best interpersonal communication.</description>
+    </item>
+    
+    <item>
+      <title>Test and Evaluation Agreement for Remote Access</title>
+      <link>https://dabra.ai/eula/</link>
+      <pubDate>Wed, 24 Jan 2018 12:03:53 +0200</pubDate>
+      
+      <guid>https://dabra.ai/eula/</guid>
+      <description>1. SCOPE SAP America, Inc., 3999 West Chester Pike, Newtown Square, PA 19073, USA, (&amp;ldquo;SAP&amp;rdquo;) operates DABRA BY SAP for which you (the &amp;ldquo;Customer&amp;rdquo;) obtain information on certain software offered by SAP as a cloud service (&amp;ldquo;DABRA BY SAP&amp;rdquo; or &amp;ldquo;Cloud Service&amp;rdquo;) can use and access and where Customer can subscribe to Cloud Services for the purpose defined in this section. Under this Test and Evaluation Agreement for Remote Access (&amp;ldquo;Agreement&amp;rdquo;) Customer (as an individual and not as Customer&amp;rsquo;s Company) is granted a 90-day free trial license to access, test and evaluate the Cloud Service as offered on the DABRA BY SAP domain.</description>
+    </item>
+    
+    <item>
+      <title>Development manager, shine in managing people!</title>
+      <link>https://dabra.ai/posts/manager/</link>
+      <pubDate>Wed, 24 Jan 2018 11:06:41 +0200</pubDate>
+      
+      <guid>https://dabra.ai/posts/manager/</guid>
+      <description>Are your 1x1 meetings meaningful… or a waste of time no one is willing to admit? We make your 1x1 time make a real difference! 1x1 meetings are the main tool managers use to connect to their people, engage and motivate them. 1x1 meetings are where managers spend, and should spend - a lot of time. But is this time with your developers really impactful? Meet Dot! She&amp;rsquo;s here to make a huge difference in 1x1 meetings in your group.</description>
+    </item>
+    
+    <item>
+      <title>Developer, do you have a great manager?</title>
+      <link>https://dabra.ai/developer/</link>
+      <pubDate>Tue, 23 Jan 2018 16:36:24 +0200</pubDate>
+      
+      <guid>https://dabra.ai/developer/</guid>
+      <description>We help you, developer, to personalize your manager attitude. Dabra helps you to have meaningful one on one meetings with your manager.</description>
+    </item>
+    
+    <item>
+      <title>Development manager, shine in managing people!</title>
+      <link>https://dabra.ai/manager/</link>
+      <pubDate>Tue, 23 Jan 2018 16:36:24 +0200</pubDate>
+      
+      <guid>https://dabra.ai/manager/</guid>
+      <description>We help you, development manager, to cultivate high perfiormance team. Dabra helps you to have meaningful one on one meetings with your developer.</description>
+    </item>
+    
+  </channel>
+</rss>

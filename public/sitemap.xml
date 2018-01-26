@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://dabra.ai/posts/developer/</loc>
+    <lastmod>2018-01-23T16:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dabra.ai/about/</loc>
+    <lastmod>2018-01-24T11:06:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dabra.ai/eula/</loc>
+    <lastmod>2018-01-24T12:03:53+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dabra.ai/posts/manager/</loc>
+    <lastmod>2018-01-24T11:06:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dabra.ai/developer/</loc>
+    <lastmod>2018-01-23T16:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dabra.ai/manager/</loc>
+    <lastmod>2018-01-23T16:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dabra.ai/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dabra.ai/</loc>
+    <lastmod>2018-01-23T16:36:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dabra.ai/posts/</loc>
+    <lastmod>2018-01-23T16:36:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dabra.ai/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
