@@ -10,6 +10,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title> Dabra - shine in managing people</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <meta name="msvalidate.01" content="2DAD604A96B557644ED6B521527D3282" />
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=GA_TRACKING_ID"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      
+        gtag('config', "UA-113238859-1");
+      
+    </script>
 
     <meta name="author" content="Dabra">
     <meta name="description" content="Dabra - shine in managing people">
@@ -46,11 +58,6 @@
     <link rel="stylesheet" href="css/magnific-popup.css">
     
     <link rel="stylesheet" href="css/bootstrap.css">
-
-
-
-
-    <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/9ebbab983378b10983a17ec94/a6cac032538ec8ca42cbf3851.js");</script>
     
     <link rel="stylesheet" href="css/style.css">
 
@@ -61,16 +68,6 @@
     <script src="js/modernizr-2.6.2.min.js"></script>
     
     
-    
-    <script async src="https://www.googletagmanager.com/gtag/js?id=GA_TRACKING_ID"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      
-        gtag('config', "UA-113238859-1");
-      
-    </script>
 
     </head>
     <body>
@@ -128,7 +125,7 @@
 							
 							<p></p>
 							<h2 style="text-align:left" class="to-animate">
-								<a href="#contact" class="btn btn-primary">Take me there</a></h2>
+								<a href="#contact" class="btn btn-primary" onclick="ga('send', 'event', 'hero', 'click', 'Take me there');">Take me there</a></h2>
 							
 						</div>
 					</div>
@@ -150,7 +147,7 @@
 						<i class="fh5co-intro-icon icon-people"></i>
 						<h2>Manager</h2>
 						<p>Are your 1x1 meetings meaningful … or a waste of time no one is willing to admit? We make your 1x1 time make a real difference! Impactful 1x1 meetings will help you cultivate high performance team</p>
-						<p><a href="#services" class="btn btn-primary">Learn more</a></p>
+						<p><a href="#services" class="btn btn-primary" onclick="ga('send', 'event', 'intro', 'click', 'Manager');">Learn more</a></p>
 					</div>
 				</div>
 				
@@ -161,7 +158,7 @@
 						<i class="fh5co-intro-icon icon-user-follow"></i>
 						<h2>Developer</h2>
 						<p>Developer, do you have a great manager? Meaningful 1x1 meetings will help you be recognized for your contribution, make your personal preferences understood and your strengthes and skills to be admitted</p>
-						<p><a href="#services" class="btn btn-primary">Learn more</a></p>
+						<p><a href="#services" class="btn btn-primary" onclick="ga('send', 'event', 'intro', 'click', 'Developer');">Learn more</a></p>
 					</div>
 				</div>
 				
@@ -225,7 +222,7 @@
       <div class="col-md-8 col-md-offset-2 subtext to-animate">
         
         <h3></h3>
-        <form method="post" action="//formspree.io/vitaly@dabra.ai">
+        <form name="fs_form" onsubmit="ga('send', 'event', 'contact', 'submit', $(#email).value));" method="post" action="//formspree.io/vitaly@dabra.ai">
         <div class="form-group ">
           
           <label for="name" class="sr-only">Name</label>
@@ -245,7 +242,7 @@
           
         </div>
         <div class="form-group ">
-          <input class="btn btn-primary btn-lg" value="I want to learn more!" type="submit">
+          <input class="btn btn-primary btn-lg" value="I want to learn more!" type="submit" >
         </div>
         <input type="hidden" name="_next" value="#" />
         
